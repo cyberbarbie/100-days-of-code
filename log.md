@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 7, 2021 (Example 1)
+### Day 0: January 7, 2021 (VueJS & Pug Pure CSS Art- Koala Bear)
 
 **Today's Progress**: Created 2 versions of a Koala Bear I coded in pure CSS. The first version is made with SCSS and Pug. The other is a VueJS animation.
 I learned how to use SCSS & Pug preprocessors together, the basics of VueJS and a lot more about different CSS properties to create smooth animations and gradients.
