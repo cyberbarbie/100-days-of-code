@@ -9,5 +9,30 @@ I learned how to use SCSS & Pug preprocessors together, the basics of VueJS and 
 
 In the second version, VueJS was used to dynamically control the state of the classes.
 
-**Link to work:** [Koala Bear Made w/ Pug & SCSS](https://codepen.io/cyberbarbie/pen/BaLPBaw)
-, [Koala Bear Made w/ VueJS & SCSS](https://codepen.io/cyberbarbie/pen/QWKxxNV)
+
+**Link to work:** 
+<div>
+<a href="https://codepen.io/cyberbarbie/pen/BaLPBaw"><img src="https://i.ibb.co/2jX6sMP/IMG-3351.jpg" alt="IMG-3349" border="0"></a><br /><a target='_blank' href='https://codepen.io/cyberbarbie/pen/BaLPBaw'>Click to see Koala Code with Pug/SCSS </a> or
+  <a target='_blank' href='https://codepen.io/cyberbarbie/pen/QWKxxNV'>Click to see Koala made with Vue </a>
+  <br />
+  <div>
+
+### Day 1: January 7, 2021 (Panda Bear CSS Image)
+
+**Today's Progress**: I made a panda bear out of CSS! 
+
+**Thoughts:** 
+I encountered an issue that I needed to fix and came up with a solution by breaking down the steps
+The Issue: 
+-- Sspecifically target one pupil to face left and the other to face right. 
+
+Solution: 
+1. I added an additional target called .pupil-right under the right eye so that I can create a css style that specifically targets that pupil
+
+2. I used css transform: rotate() to rotate the pupils at certain angles 🙂
+
+**Link to work:**
+<div>
+<a href="https://codepen.io/cyberbarbie/pen/e93df329594c782e936ee66bacea18da"><img src="https://i.ibb.co/1nnMSvC/IMG-3349.jpg" alt="IMG-3349" border="0"></a><br /><a target='_blank' href='https://codepen.io/cyberbarbie/pen/e93df329594c782e936ee66bacea18da
+'>Click to see Panda Code</a><br />
+  <div>
