@@ -1,30 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: January 7, 2021 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created 2 versions of a Koala Bear I coded in pure CSS. The first version is made with SCSS and Pug. The other is a VueJS animation.
+I learned how to use SCSS & Pug preprocessors together, the basics of VueJS and a lot more about different CSS properties to create smooth animations and gradients.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** SCSS was used to create variables for the shapes and colors which made the code reusable and easily structured. Pug is a template engine for Nodejs that compiles to HTML. What I found fascinating was that in the Pug document, you use proper indentation and nest classes.
 
-**Link to work:** [Calculator App](http://www.example.com)
+In the second version, VueJS was used to dynamically control the state of the classes.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Koala Bear Made w/ Pug & SCSS](https://codepen.io/cyberbarbie/pen/BaLPBaw)
+, [Koala Bear Made w/ VueJS & SCSS](https://codepen.io/cyberbarbie/pen/QWKxxNV)
