@@ -44,14 +44,11 @@ Solution:
 **Today's Progress**: I transformed the panda into an animation and added a shadow
 
 **Thoughts:** 
-I encountered an issue that I needed to fix and came up with a solution by breaking down the steps
-The Issue: 
--- Sspecifically target one pupil to face left and the other to face right. 
+####The main objective for the animation:
+1. How to create the shadow- solution was to duplicate the nose (which is a circle with a border-radius of 50%), manipulate the width to make it wider and then use the opacity to make it more transparent, creating a faded effect.
+2. How to make the shadow shrink - I created a keyframe animation where I utilized the CSS transform:scaleY() property to make the the shadow shrink at the 1.5s mark (end of animation).
 
-Solution: 
-1. I added an additional target called .pupil-right under the right eye so that I can create a css style that specifically targets that pupil
-
-2. I used css transform: rotate() to rotate the pupils at certain angles 🙂
+I'm currently learning more about Sass :)
 
 **Link to work:**
 
@@ -60,7 +57,3 @@ Solution:
 '>Click to see Panda Code</a><br />
   <div>
 
-
-
-
-img src="https://i.ibb.co/WstV584/ezgif-com-gif-maker.gif
