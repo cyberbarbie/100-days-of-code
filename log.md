@@ -3,6 +3,7 @@
 ## Main Objective/Learning Goals:
 - To Create a CSS image every day for 30 days
 - Learn how to create animations with JavaScript
+- To strengthen knowledge of data structures & algos (creating a separate repo for notes)
 - To Build a Full-Stack App with Node.js
 
 ### Day 1: January 7, 2021 (VueJS & Pug Pure CSS Art- Koala Bear)
