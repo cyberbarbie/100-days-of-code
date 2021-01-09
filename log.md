@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+## Main Objective/Learning Goals:
+- To Create a CSS image every day for 30 days
+- Learn how to create animations with JavaScript
+- To Build a Full-Stack App with Node.js
+
 ### Day 1: January 7, 2021 (VueJS & Pug Pure CSS Art- Koala Bear)
 
 **Today's Progress**: Created 2 versions of a Koala Bear I coded in pure CSS. The first version is made with SCSS and Pug. The other is a VueJS animation.
