@@ -6,7 +6,7 @@
 - To strengthen knowledge of data structures & algos (creating a separate repo for notes)
 - To Build a Full-Stack App with Node.js
 
-### Day 1: January 7, 2021 (VueJS & Pug Pure CSS Art- Koala Bear)
+### Day 0: January 6, 2021 (VueJS & Pug Pure CSS Art- Koala Bear)
 
 **Today's Progress**: Created 2 versions of a Koala Bear I coded in pure CSS. The first version is made with SCSS and Pug. The other is a VueJS animation.
 I learned how to use SCSS & Pug preprocessors together, the basics of VueJS and a lot more about different CSS properties to create smooth animations and gradients.
@@ -25,7 +25,7 @@ In the second version, VueJS was used to dynamically control the state of the cl
     
     
 
-### Day 2: January 7, 2021 (Panda Bear CSS Image)
+### Day 1: January 7, 2021 (Panda Bear CSS Image)
 
 **Today's Progress**: I made a panda bear out of CSS! 
 
@@ -43,11 +43,10 @@ Solution:
 <div>
 <a href="https://codepen.io/cyberbarbie/pen/e93df329594c782e936ee66bacea18da"><img src="https://i.ibb.co/1nnMSvC/IMG-3349.jpg" alt="IMG-3349" border="0"></a><br /><a target='_blank' href='https://codepen.io/cyberbarbie/pen/e93df329594c782e936ee66bacea18da
 '>Click to see Panda Code</a><br />
-  <div>
+  </div>
 
-### Day 3: January 7, 2021 (Panda Bear CSS Image- But Animated)
 
-**Today's Progress**: I transformed the panda into an animation and added a shadow
+ I transformed the panda into an animation and added a shadow
 
 **Thoughts:** 
 ####The main objective for the animation:
@@ -61,5 +60,32 @@ I'm currently learning more about Sass :)
 <div>
 <a href="https://codepen.io/cyberbarbie/pen/e93df329594c782e936ee66bacea18da"><img src="https://i.ibb.co/WstV584/ezgif-com-gif-maker.gif" border="0"></a><br /><a target='_blank' href='https://codepen.io/cyberbarbie/full/ZEpjRRN
 '>Click to see Panda Code</a><br />
-  <div>
+  </div>
+  
+### Day 4: January 8, 2021 (VueJS & Pug Pure CSS Art- Koala Bear)
 
+**Today's Progress**: Created 2 versions of a Koala Bear I coded in pure CSS. The first version is made with SCSS and Pug. The other is a VueJS animation.
+I learned how to use SCSS & Pug preprocessors together, the basics of VueJS and a lot more about different CSS properties to create smooth animations and gradients.
+
+**Thoughts:** SCSS was used to create variables for the shapes and colors which made the code reusable and easily structured. Pug is a template engine for Nodejs that compiles to HTML. What I found fascinating was that in the Pug document, you use proper indentation and nest classes.
+
+In the second version, VueJS was used to dynamically control the state of the classes.
+
+
+**Link to work:** 
+<div>
+<a href="https://codepen.io/cyberbarbie/pen/BaLPBaw"><img src="https://i.ibb.co/MsnDkQw/ezgif-com-gif-maker-1.gif" alt="IMG-3349" border="0"></a><br /><a target='_blank' href='https://codepen.io/cyberbarbie/pen/BaLPBaw'>Click to see Koala Code with Pug/SCSS </a> or
+  <a target='_blank' href='https://codepen.io/cyberbarbie/pen/QWKxxNV'>Click to see Koala made with Vue </a>
+  <br />
+  </div>
+    
+### Day 5: January 9, 2021 (Pure CSS Loading Animation)
+
+**Today's Progress**: I made a CSS Loader that utilized a bezier curve function to create that flow of elements, animation-delay property to delay the bounce of each element and I targeted each element to show a different color.
+
+**Link to work:** 
+<div>
+<a href="https://codepen.io/cyberbarbie/pen/PoGBBgr"><img src="https://i.ibb.co/pKFFtr6/ezgif-com-video-to-gif.gif" border="0"></a><br /><a target='_blank' href='https://codepen.io/cyberbarbie/pen/PoGBBgr'>Click to see CSS Loader Code</a>
+<br />
+</div>
+    
