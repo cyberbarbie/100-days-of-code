@@ -89,3 +89,15 @@ In the second version, VueJS was used to dynamically control the state of the cl
 <br />
 </div>
     
+### Day 6: January 10, 2021 (RE-BUILT & RE-LAUNCHED MY WEBSITE)
+
+**Today's Progress**: This is such a big moment for me. Last December my website was hacked and with full transparent, a part of me died. All of the files were corrupted and it was intense malware. I really was dreading the idea of rebuilding from scratch but today I did it and it's live. Thank the universe, I had a backup of my blog posts on my computer so it's just a matter of manually re-uploading them. I made the site on WordPress. I was able to upload 3 of my blog posts today but I'm focusing the rest of the night on creating my next CSS Animations. I should have the rest of my blog posts (as well as a new tutorial) next week. 
+
+On the site you can find a blog post detailing my non-traditional journey into tech as well as tutorials on Git, JavaScript and Python. I hope to put out more web development resources on there, definitely continuing my vanilla JavaScript series! My goal is to help people learn how to code in an accessible, relatable way...with the occasional anime gifs!
+
+**Link to work:** 
+<div>
+<a href="https://taeluralexis.com"><img src="https://i.ibb.co/Fs1XFTp/ezgif-com-gif-maker-2.gif" border="0"></a><br /><a target='_blank' href='https://taeluralexis.com'>Check out my website</a>
+<br />
+</div>
+    
