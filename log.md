@@ -101,3 +101,7 @@ On the site you can find a blog post detailing my non-traditional journey into t
 <br />
 </div>
     
+### Day 7: January 12, 2021 (Refreshed some JavaScript)
+
+**Today's Progress**: I was on Codecademy refreshing my JS (I've been doing Python for the last few months!) and that's what I'll continue to be doing
+
