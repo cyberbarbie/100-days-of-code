@@ -105,3 +105,24 @@ On the site you can find a blog post detailing my non-traditional journey into t
 
 **Today's Progress**: I was on Codecademy refreshing my JS (I've been doing Python for the last few months!) and that's what I'll continue to be doing
 
+### Day 8: January 13-Jan 20 
+**Today's Progress**: I grouped a week's worth of coding into one post. I spent at least a few hours a day working on JavaScript coding challenges!
+
+### Day 20: January 20
+**Today's Progress**: Today I experimented with PhaserJS, a browser based game framework written in JavaScript. I learned the basics of game development - scenes, sprites, event handlers to create movements and how to add audio
+
+### Day 21: January 21
+**Today's Progress**: I reviewed PhaserJS's concepts and then started reading the official Rust book and learned how to write Hello World haha
+
+### Day 22: January 22
+
+**Today's Progress**: I was on Codecademy refreshing my JS (I've been doing Python for the last few months!) and that's what I'll continue to be doing
+
+### Day 23: January 23
+**Today's Progress**: I was able to successfully rewrite a JavaScript program into Rust
+
+### Day 24: January 24
+**Today's Progress**: More Rust
+
+### Day 25: January 25
+**Today's Progress**: Wrote my own Lodash library from scratch in JavaScript
